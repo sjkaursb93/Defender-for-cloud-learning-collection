@@ -20,9 +20,11 @@ Microsoft Defender for Cloud generates security alerts when it detects potential
 
 
 ## Defender for Cloud Plans
-The next step I recommend to see what different plans are available. The different plans are specific to the type of workload you want to protect, such as servers, databases,stortage accounts, app services and more. You can customize your security with the right cloud workload protection plan for your resources in Defender for Cloud portal. From the Microsoft Defender for Cloud blade, click on envrionment settiings, click on  your subscription
+The next step I recommend to see what different plans are available. The different plans are specific to the type of workload you want to protect, such as servers, databases,stortage accounts, app services and more. You can customize your security with the right cloud workload protection plan for your resources in Defender for Cloud portal. <br>
+From the Microsoft Defender for Cloud blade, click on envrionment settiings, click on  your subscription
 
 
+<img width="893" alt="image" src="https://github.com/sjkaursb93/Defender-for-cloud-learning-collection/assets/112006044/353f8aae-a45f-4cba-ad73-58569fba9ddd">
 
 
 
