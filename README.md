@@ -7,7 +7,7 @@ Keep in mind, the principles of [Zero Trust](https://learn.microsoft.com/en-us/a
 In addition to setting up Microsoft Defender for Clod [use this article](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns) to understand the security best practices to use when you're designing, deploying, and managing your cloud solutions by using Azure. <br>
 
 ### Security Recommendations and Security Alerts
-The two main things you'll be looking for when setting up Defender for cloud is Security Recommendations and Alerts.<br>
+The two main things you'll be looking for when setting up Microsoft Defender for cloud is Security Recommendations and Alerts.<br>
 **Security Recommendations** play a crucial role in enhancing your orgnization's security posture. The recommendations are based on assessments of your resources and workloads agains built-in custom security standards. Before getting started with the recommendations assessments, I have always referred to [Recommendations References ](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)to understand the baseline which is based on Microsoft cloud benchmark. <br>
 Defender for cloud now also provides [Devops Recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference-devops), if you connect Azure Devops, GitHub, GitLab with Defender. <br>
 Note if you have multi-cloud architecture, Defender for Cloud can be used to assess AWS and GCP enviornments. Here are additional recommendations links:
@@ -15,3 +15,4 @@ Note if you have multi-cloud architecture, Defender for Cloud can be used to ass
 - [GCP Security Recommendation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference-gcp)
 
 **Security Alerts** - 
+Microsoft Defender for Cloud generates security alerts when it detects potential threats in you Azure, hybrid or multicloud environments. These alerts are part of workload protection plans and are triggered by advanced detections when you enable Defender plans for specific resource types. Similar to Security recommendations, I always refer to the [Security Alerts Reference](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference)list  
