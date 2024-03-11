@@ -8,5 +8,8 @@ Before exploring the details of Defender for cloud, [use this article](https://l
 
 ### Security Recommendations and Security Alerts
 The two main things you'll be looking for when setting up Defender for cloud is Security Recommendations and Alerts.<br>
-**Security Recommendations** play a crucial role in enhancing your orgnization's security posture. The recommendations are based on assessments of your resources and workloads agains built-in custom security standards. Before getting started with the recommendations assessments, I have always referred to [Recommendations Reference](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)to understand the baseline which is based on Microsoft cloud benchmark
-**Security Alerts **
+**Security Recommendations** play a crucial role in enhancing your orgnization's security posture. The recommendations are based on assessments of your resources and workloads agains built-in custom security standards. Before getting started with the recommendations assessments, I have always referred to [Recommendations References ](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)to understand the baseline which is based on Microsoft cloud benchmark. <br>
+Defender for cloud now also provides [Devops Recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference-devops), if you connect Azure Devops, GitHub, GitLab with Defender
+Note if you have multi-cloud architecture, there are additional recommendations links:
+
+**Security Alerts** - 
