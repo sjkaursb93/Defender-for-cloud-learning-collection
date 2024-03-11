@@ -24,8 +24,14 @@ The next step I recommend to see what different plans are available. The differe
 From the Microsoft Defender for Cloud blade, click on envrionment settiings, click on  your subscription. You'll see the screen as below. The details, settings, price will provide you additional details. 
 <img width="893" alt="image" src="https://github.com/sjkaursb93/Defender-for-cloud-learning-collection/assets/112006044/353f8aae-a45f-4cba-ad73-58569fba9ddd">
 
+Here is also a brief summary of different defender plans to help you get started. <br>
+### Defender CSPM
+
 
 
 
 ## What's next
 - Keep checking [What's new in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/release-notes?WT.mc_id=Portal-Microsoft_Azure_Security#business-model-and-pricing-updates-for-defender-for-cloud-plans) to stay up to date with the recent developments.
+- [Azure Resource Graph sample queries](https://learn.microsoft.com/en-us/azure/defender-for-cloud/resource-graph-samples?tabs=azure-cli)
+### Other links
+- 
