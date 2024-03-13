@@ -31,7 +31,10 @@ Here is also a brief summary of different defender plans to help you get started
 
 
 ## What's next
-- Keep checking [What's new in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/release-notes?WT.mc_id=Portal-Microsoft_Azure_Security#business-model-and-pricing-updates-for-defender-for-cloud-plans) to stay up to date with the recent developments.
+
+
+### Other Blogs
+- Keep an eye on  [What's new in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/release-notes?WT.mc_id=Portal-Microsoft_Azure_Security#business-model-and-pricing-updates-for-defender-for-cloud-plans) to stay up to date with the recent developments.
 - [Azure Resource Graph sample queries](https://learn.microsoft.com/en-us/azure/defender-for-cloud/resource-graph-samples?tabs=azure-cli)
-### Other links
-- 
+
+- [Microsoft Defender for Cloud Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog)
