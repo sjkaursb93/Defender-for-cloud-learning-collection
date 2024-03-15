@@ -32,7 +32,7 @@ One of Microsoft Defender for Cloud's main pillars is [cloud security posture ma
 [Defender for App Services](https://learn.microsoft.com/en-us/azure/defender-for-cloud/tutorial-enable-app-service-plan) provides protection for your web apps and APIs by providing security recommendations to harden the resources. It uses the scale of the cloud to identify attacks targeting applications, leveraging data from several gateways through which requests to applications are routed, inspected, and logged.
 
 ### Defender for Storage
-To detect and protect your storage accounts, [Defender for Storage](https://learn.microsoft.com/en-us/azure/defender-for-cloud/tutorial-enable-storage-plan) offers security features such as malicious file uploads prevention, sensitive data exfiltration protection, data corruption prevention.
+To detect and protect your storage accounts, [Defender for Storage](https://learn.microsoft.com/en-us/azure/defender-for-cloud/tutorial-enable-storage-plan) offers security features such as malicious file uploads prevention, sensitive data exfiltration protection, data corruption prevention etc,
 
 
 ## What's next
