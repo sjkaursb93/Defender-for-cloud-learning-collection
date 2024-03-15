@@ -25,7 +25,8 @@ From the Microsoft Defender for Cloud blade, click on envrionment settiings, cli
 <img width="893" alt="image" src="https://github.com/sjkaursb93/Defender-for-cloud-learning-collection/assets/112006044/353f8aae-a45f-4cba-ad73-58569fba9ddd">
 
 Here is also a brief summary of different defender plans to help you get started. <br>
-### CSPM - Cloud Security Posture Management - One of Microsoft Defender for Cloud's main pillars is [cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management). CSPM provides detailed visibility into the security state of your assets and workloads, and provides hardening guidance to help you efficiently and effectively improve your security posture.
+### CSPM - Cloud Security Posture Management - 
+One of Microsoft Defender for Cloud's main pillars is [cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management). CSPM provides detailed visibility into the security state of your assets and workloads, and provides hardening guidance to help you efficiently and effectively improve your security posture.
 
 
 
