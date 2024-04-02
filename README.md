@@ -9,14 +9,14 @@ In addition to setting up Microsoft Defender for Clod [use this article](https:/
 ## Security Recommendations and Security Alerts
 The two main things you'll be looking for when setting up Microsoft Defender for cloud is Security Recommendations and Alerts.<br>
 
-**Security Recommendations** play a crucial role in enhancing your organization's security posture. The recommendations are based on assessments of your resources and workloads against built-in custom security standards. Before getting started with the recommendations assessments, I have always referred to [Recommendations References ](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)to understand the baseline which is based on Microsoft cloud benchmark. <br>
+**Security Recommendations** play a crucial role in enhancing your organization's security posture. The recommendations are based on assessments of your resources and workloads against built-in custom security standards. Before getting started with the recommendations assessments, I have always referred to [Recommendations Reference ](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)to understand the baseline which is based on Microsoft cloud security benchmark. <br>
 Defender for cloud now also provides [Devops Recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference-devops), if you connect Azure Devops, GitHub, GitLab with Defender. <br>
-Note if you have multi-cloud architecture, Defender for Cloud can be used to assess AWS and GCP enviornments. Here are additional recommendations links:
+Note if you have multi-cloud architecture, Defender for Cloud can be used to assess AWS and GCP environments. Here are additional recommendations links:
 - [AWS Security Recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference-aws)
 - [GCP Security Recommendation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference-gcp)
 
 **Security Alerts** 
-Microsoft Defender for Cloud generates security alerts when it detects potential threats in you Azure, hybrid or multicloud environments. These alerts are part of workload protection plans and are triggered by advanced detections when you enable Defender plans for specific resource types. Similar to Security recommendations, I always refer to the [Security Alerts Reference](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference) list  
+Microsoft Defender for Cloud generates security alerts when it detects potential threats in your Azure, hybrid or multi-cloud environments. These alerts are part of workload protection plans and are triggered by advanced detections when you enable Defender plans for specific resource types. Similar to Security recommendations, I always refer to the [Security Alerts Reference](https://learn.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference).
 
 
 ## Defender for Cloud Plans
@@ -24,9 +24,9 @@ The next step I recommend to see what different plans are available. The differe
 From the Microsoft Defender for Cloud blade, click on environment settings, click on  your subscription. You'll see the screen as below. The details, settings, price will provide you additional details. 
 <img width="893" alt="image" src="https://github.com/sjkaursb93/Defender-for-cloud-learning-collection/assets/112006044/353f8aae-a45f-4cba-ad73-58569fba9ddd">
 
-For instance, Defender for CSPM, is one of Microsoft Defender for Cloud's main pillars is [cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management). CSPM, provides detailed visibility into the security state of your assets and workloads, and provides hardening guidance to help you efficiently and effectively improve your security posture. Follow the subsequent links to learn more about different defender plans. <br>
+For instance, Defender for CSPM, is one of Microsoft Defender for Cloud's main pillars. [Cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management)(CSPM), provides detailed visibility into the security state of your assets and workloads, and provides hardening guidance to help you efficiently and effectively improve your security posture. Follow the subsequent links to learn more about different defender plans. <br>
 
-**Once you have set up Defender, these are the next steps to follow:**
+**Once you have set up Defender, these are the next steps:**
 
 ### Workbooks
 Workbooks are a common feature among, Defender, Monitor and Sentinel. It is extremely helpful to track your organization's security posture. There are many pre-defined workbooks available which can help you get started. For instance, [Coverage Workbook](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#coverage-workbook) and [Vulnerability Assessment Findings Workbooks](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#vulnerability-assessment-findings-workbook)
