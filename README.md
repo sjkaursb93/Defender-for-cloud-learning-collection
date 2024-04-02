@@ -34,7 +34,7 @@ Workbooks are a common feature among, Defender, Monitor and Sentinel. It is extr
 The [secure score](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) helps improve the cloud security posture. It assess your current security situation and aggregates into a single score. The higher the score, the lower the identified risk is. In the secure score tab of the security recommendations, you can see the impact on secure score, once the security recommendation is implemented. There is a [pre-defined workbook](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#secure-score-over-time-workbook), which helps you keep track of secure score over time.
 
 ### Regulatory Compliance
-Along with Policy, Defender for cloud can be used to stay compliant to a regulatory standard/benchmark. The regulatory compliance dashboard 
+Along with [Policy](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/regulatory-compliance), Defender for cloud can be used to stay compliant to a regulatory standard/benchmark. The [regulatory compliance](https://learn.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard) dashboard shows compliance state and scope of improvements
 
 ### Attack path analysis
 
