@@ -31,8 +31,10 @@ Once you have set up Defender, these are the next steps to follow:
 Workbooks are a common feature among, Defender, Monitor and Sentinel. It is extremely helpful to track your organization's security posture. There are many pre-defined workbooks available which can help you get started. For instance, [Coverage Workbook](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#coverage-workbook) and [Vulnerability Assessment Findings Workbooks](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#vulnerability-assessment-findings-workbook)
 
 ### Secure Score
+The [secure score](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) helps improve the cloud security posture. It assess your current security situation and aggregates into a single score. The higher the score, the lower the identified risk is. In the secure score tab of the security recommendations, you can see the impact on secure score, once the security recommendation is implemented. There is a [pre-defined workbook](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#secure-score-over-time-workbook), which helps you keep track of secure score over time.
 
 ### Regulatory Compliance
+Along with Policy, Defender for cloud can be used to stay compliant to a regulatory standard/benchmark. The regulatory compliance dashboard 
 
 ### Attack path analysis
 
