@@ -24,8 +24,9 @@ The next step I recommend to see what different plans are available. The differe
 From the Microsoft Defender for Cloud blade, click on environment settings, click on  your subscription. You'll see the screen as below. The details, settings, price will provide you additional details. 
 <img width="893" alt="image" src="https://github.com/sjkaursb93/Defender-for-cloud-learning-collection/assets/112006044/353f8aae-a45f-4cba-ad73-58569fba9ddd">
 
-For instance, Defender for CSPM, is one of Microsoft Defender for Cloud's main pillars is [cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management). CSPM, provides detailed visibility into the security state of your assets and workloads, and provides hardening guidance to help you efficiently and effectively improve your security posture. Follow the subsequent links to learn more about different defender plans.
-Once you have set up Defender, these are the next steps to follow:
+For instance, Defender for CSPM, is one of Microsoft Defender for Cloud's main pillars is [cloud security posture management (CSPM)](https://learn.microsoft.com/en-us/azure/defender-for-cloud/concept-cloud-security-posture-management). CSPM, provides detailed visibility into the security state of your assets and workloads, and provides hardening guidance to help you efficiently and effectively improve your security posture. Follow the subsequent links to learn more about different defender plans. <br>
+
+**Once you have set up Defender, these are the next steps to follow:**
 
 ### Workbooks
 Workbooks are a common feature among, Defender, Monitor and Sentinel. It is extremely helpful to track your organization's security posture. There are many pre-defined workbooks available which can help you get started. For instance, [Coverage Workbook](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#coverage-workbook) and [Vulnerability Assessment Findings Workbooks](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#vulnerability-assessment-findings-workbook)
@@ -34,12 +35,10 @@ Workbooks are a common feature among, Defender, Monitor and Sentinel. It is extr
 The [secure score](https://learn.microsoft.com/en-us/azure/defender-for-cloud/secure-score-security-controls) helps improve the cloud security posture. It assess your current security situation and aggregates into a single score. The higher the score, the lower the identified risk is. In the secure score tab of the security recommendations, you can see the impact on secure score, once the security recommendation is implemented. There is a [pre-defined workbook](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#secure-score-over-time-workbook), which helps you keep track of secure score over time.
 
 ### Regulatory Compliance
-Along with [Policy](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/regulatory-compliance), Defender for cloud can be used to stay compliant to a regulatory standard/benchmark. The [regulatory compliance](https://learn.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard) dashboard shows compliance state and scope of improvements
-
-### Attack path analysis
+Along with [Policy](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/regulatory-compliance), Defender for cloud can be used to stay compliant to a regulatory standard/benchmark. The [regulatory compliance](https://learn.microsoft.com/en-us/azure/defender-for-cloud/regulatory-compliance-dashboard) dashboard shows compliance state and scope of improvements. From workbooks perspective,the [compliance over time workbook](https://learn.microsoft.com/en-us/azure/defender-for-cloud/custom-dashboards-azure-workbooks#compliance-over-time-workbook) can help you keep track of your compliance posture.
 
 ### Workflow Automation
-
+A common scenario: "You have enabled defender for cloud. You see, recommendations and alerts, how to do the incident response and management?" The answer is [workflow automation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/workflow-automation). It uses logic apps. You can trigger a logic app, for a defender for cloud recommendation, security alert or regulatory compliance assessment. Within the logic you can do the integration with tools such as Jira, Teams, Outlook etc.
 
 ## Other Blogs
 - Keep an eye on  [What's new in Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/release-notes?WT.mc_id=Portal-Microsoft_Azure_Security#business-model-and-pricing-updates-for-defender-for-cloud-plans) to stay up to date with the recent developments.
