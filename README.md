@@ -1,4 +1,5 @@
 # Microsoft Defender-for-cloud-learning-collection
+The purpose of this learning collection is to help you adopt Defender for cloud. It summarizes, the functionality, next steps and FAQs. This information can help you monitor and secure your cloud assets. It will also help you prevent and mitigate security incidents and stay compliant with industry standards
 
 ## Introduction
 Microsoft Defender for cloud is a cloud native application protection platform (CNAPP) which safeguards the cloud based applications from various threats and vulnerabilities.<br>
