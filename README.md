@@ -10,7 +10,7 @@ In addition to setting up Microsoft Defender for Clod [use this article](https:/
 ## Security Recommendations and Security Alerts
 The two main things you'll be looking for when setting up Microsoft Defender for cloud is Security Recommendations and Alerts.<br>
 
-**Security Recommendations** play a crucial role in enhancing your organization's security posture. The recommendations are based on assessments of your resources and workloads against built-in custom security standards. Before getting started with the recommendations assessments, I have always referred to [Recommendations Reference ](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference)to understand the baseline which is based on Microsoft cloud security benchmark. <br>
+**Security Recommendations** play a crucial role in enhancing your organization's security posture. The recommendations are based on assessments of your resources and workloads against built-in custom security standards. Before getting started with the recommendations assessments, I have always referred to [Recommendations Reference ](https://learn.microsoft.com/en-us/azure/defender-for-cloud/release-notes-recommendations-alerts)to understand the baseline which is based on Microsoft cloud security benchmark. <br>
 Defender for cloud now also provides [Devops Recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference-devops), if you connect Azure Devops, GitHub, GitLab with Defender. <br>
 Note if you have multi-cloud architecture, Defender for Cloud can be used to assess AWS and GCP environments. Here are additional recommendations links:
 - [AWS Security Recommendations](https://learn.microsoft.com/en-us/azure/defender-for-cloud/recommendations-reference-aws)
@@ -48,3 +48,4 @@ Along with [Policy](https://learn.microsoft.com/en-us/azure/governance/policy/co
 - [Common Questions - Defender for Containers](https://learn.microsoft.com/en-us/azure/defender-for-cloud/faq-defender-for-containers#what-are-the-options-to-enable-the-new-plan-at-scale-)
 - [Common Questions - Regulatory Compliance](https://learn.microsoft.com/en-us/azure/defender-for-cloud/faq-regulatory-compliance)
 - [Microsoft Defender for Cloud Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog)
+- [What's new in Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/release-notes)
